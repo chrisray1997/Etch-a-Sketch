@@ -1,4 +1,8 @@
-h1 {
+span {
     text-align:center;
     color: blue;
 }
+
+a:hover {
+    color: red;
+  }
